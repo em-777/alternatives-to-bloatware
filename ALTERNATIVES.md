@@ -91,7 +91,7 @@ Most apps are from F-Droid, we are just starting.
 ## Communication
 * __BBS-MUD Client__: SyncTERM -> KildClient -> kbtin -> [TinTin++](http://tintin.sourceforge.net/features.php)
 * __Bookmarks Manager__: [bookmarks.public](https://github.com/skx/bookmarks.public) -> [bk_edit](http://www.vakuumverpackt.de/retiredprojects/bk_edit/) -> [pmb](https://github.com/neoncortex/poor-man-s-bookmark) -> [b.](https://directory.fsf.org/wiki/B.)
-* __Browser__: ungoogled-chromium -> Pale Moon -> [GNU IceCat](https://www.gnu.org/software/gnuzilla/) -> luakit / vimb / surf (tabbed) / Uzbl (tabbed) -> [NetSurf](http://www.netsurf-browser.org/) (works in the framebuffer too) -> Arachne (works in the framebuffer too)
+* __Browser__: ungoogled-chromium -> Pale Moon -> [GNU IceCat](https://www.gnu.org/software/gnuzilla/) -> luakit / vimb / surf (tabbed) / Uzbl (tabbed) -> [NetSurf](http://www.netsurf-browser.org/) (works in the framebuffer too) -> [Dillo+](https://github.com/crossbowerbt/dillo-plus) -> Arachne (works in the framebuffer too)
 * __Browser (Command Line)__: w3m (can display images) -> Lynx -> [Links2](http://links.twibright.com/) (can display images) -> [Netrik](http://netrik.sourceforge.net/) -> retawq
 * __Browser (Gopher)__: [GopherVR](http://www.floodgap.com/software/gophervr/) -> [gopherfs](http://git.savannah.gnu.org/cgit/hurd/incubator.git/) -> [UMN Gopher client](https://github.com/jgoerzen/gopher) -> [sacc](https://git.fifth.space/sacc/log.html) -> [cgo](https://github.com/kieselsteini/cgo) -> Lynx
 * __Chat Client__: [Finch (Pidgin)](https://developer.pidgin.im/wiki/Using%20Finch) in [irssi mode](https://askubuntu.com/questions/442345/how-can-i-simplify-the-finch-interface) -> [Centerim](http://www.centerim.org/index.php/Main_Page) -> [Bitlbee](https://wiki.bitlbee.org/)
@@ -123,7 +123,7 @@ Most apps are from F-Droid, we are just starting.
 * __Slack__: [ScudCloud](https://github.com/raelgc/scudcloud) -> [slackterm](https://github.com/rob05c/slackterm)
 * __Telegram__: Telegram Desktop -> ncTelegram -> telegram-cli -> Telegram-Purple
 * __Twitter__: [Hotot](https://github.com/lyricat/Hotot) -> turses -> [oysttyer](https://github.com/oysttyer/oysttyer)
-* __Youtube__: mps-youtube -> [youtube-viewer](https://github.com/trizen/youtube-viewer)
+* __Youtube__: mps-youtube -> [youtube-viewer](https://github.com/trizen/youtube-viewer) -> [yt](https://github.com/sayan01/scripts/blob/master/yt)
 
 ## Data
 * __Data Mining and Business Intelligence__: [JasperReports](https://sourceforge.net/projects/jasperserver/) -> [KNIME](https://directory.fsf.org/wiki/KNIME) -> [GNU Ferret](https://directory.fsf.org/wiki/Ferret) -> [GURGLE](https://directory.fsf.org/wiki/Gurgle)
@@ -191,7 +191,7 @@ Most apps are from F-Droid, we are just starting.
 * __File Compression__: arj, Zstandard (Zstd), Zip, lzop, Plzip, pxz, ECM (Error Code Modeler), p7zip, lbzip2, lrzip, pigz
 * __File Conversion__: nrg2iso, dmg2iso (dmg to iso), mdf2iso (mdf to iso), daa2iso (daa to iso), UIF2ISO (uif to iso), ccd2iso (img to iso), bin2iso (bin-cue to iso), [bchunk](http://he.fi/bchunk/) (bin-cue to iso), mpq-tools (MPQ or MoPaQ), Macutils
 * __File De-Compression Only__: unace, cabextract, unrar, Lunzip, UnZip
-* __File Manager__: PCManFM -> Xfe -> SpaceFM -> [File System Visualizer](https://github.com/mcuelenaere/fsv) ([“It’s a Unix system, I know this!”](https://www.youtube.com/watch?v=dxIPcbmo1_U)) -> Endeavour Mark II -> donnatella -> worker (+ imagemagick) -> [Moxfm](https://github.com/ThomasAdam/moxfm) -> Emacs (Dired Plus Mode, Sunrise Commander, ranger.el, Image-Dired, ThumbsMode) -> Ranger -> Midnight Commander -> [vifm](https://wiki.vifm.info/index.php?title=How_to_preview_images) -> [FDclone](http://hp.vector.co.jp/authors/VA012337/soft/fd/) -> [Ytree](https://directory.fsf.org/wiki/Ytree) -> rover -> CLEX -> [nnn](https://github.com/jarun/nnn) -> [tree](https://directory.fsf.org/wiki/Tree)
+* __File Manager__: PCManFM -> Xfe -> SpaceFM -> [File System Visualizer](https://github.com/mcuelenaere/fsv) ([“It’s a Unix system, I know this!”](https://www.youtube.com/watch?v=dxIPcbmo1_U)) -> Endeavour Mark II -> donnatella -> worker (+ imagemagick) -> [Moxfm](https://github.com/ThomasAdam/moxfm) -> Emacs (Dired Plus Mode, Sunrise Commander, ranger.el, Image-Dired, ThumbsMode) -> Ranger -> Midnight Commander -> [vifm](https://wiki.vifm.info/index.php?title=How_to_preview_images) -> [FDclone](http://hp.vector.co.jp/authors/VA012337/soft/fd/) -> [Ytree](https://directory.fsf.org/wiki/Ytree) -> rover -> CLEX -> [nnn](https://github.com/jarun/nnn) -> [fff](https://github.com/dylanaraps/fff) -> [shfm](https://github.com/dylanaraps/shfm) -> [tree](https://directory.fsf.org/wiki/Tree)
 * __File Search__: Beagle -> [Puggle](http://puggle.sourceforge.net/) -> [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) -> Tracker -> [DocFetcher](http://docfetcher.sourceforge.net/en/index.html) -> [regain](http://regain.sourceforge.net/index.php) -> lightmediascanner -> find
 * __File Synchronization__: [Unison](https://github.com/bcpierce00/unison) -> duplicity -> synk -> Rsync
 * __Pictures Organizer__: hydrus network -> Shotwell -> GTKRawGallery -> digiKam -> gThumb (+ gphoto) -> [Mapivi](http://mapivi.sourceforge.net/mapivi.shtml) -> [BASH-Booru](https://github.com/ChristianSilvermoon/BASH-Booru)
@@ -385,7 +385,7 @@ Most apps are from F-Droid, we are just starting.
 * __Ebook Utilities (Epub)__: Ebook Tools (ebook-tools)
 * __Ebook Utilities (PDF)__: [PDF SaM](https://github.com/torakiki/pdfsam) -> Poppler -> PDFtk
 * __Ebook Utilities (PostScript)__: PSUtils -> ghostscript
-* __Ebook Viewer__: Calibre -> Okular -> Zathura -> JFBView / [fimgs (fim)](http://www.nongnu.org/fbi-improved/) / [fbgs (fbida)](https://www.kraxel.org/blog/linux/fbida/) / fbpdf
+* __Ebook Viewer__: Calibre -> Okular -> Zathura -> [gv](https://www.gnu.org/software/gv/) -> JFBView / [fimgs (fim)](http://www.nongnu.org/fbi-improved/) / [fbgs (fbida)](https://www.kraxel.org/blog/linux/fbida/) / fbpdf
 * __Flashcards__: awk flashcards -> Anki
 * __Gamification__: HabitRPG -> Habitica
 * __Mind Mapping__: FreeMind
